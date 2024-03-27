@@ -1,2 +1,2 @@
 # DataScience
-Repositório de projetos de cieência de dados
+Repositório de projetos de ciência de dados
